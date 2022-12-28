@@ -17,7 +17,10 @@ Remember that learning any programming language requires a lot of practice and d
 
 
 **1- Java basic syntax**
-A method is a function belong a class
+
+Every Java file ends in *.java, and it should contain a class inside with the **same name** which starting with capital letter, and then you should place a main method/function or void inside that class. name of the void must be in small letters.
+The braces { } indicate the scope of the structure involved, like a class or the main method. A method is a function belong a class
+
 
 ```
 public Class Main{
@@ -26,7 +29,22 @@ public Class Main{
     }
 }
 ```
-**public** is access modifier.  <br />
-**Class** is group of functions.  <br />
-**void** is the phrass used for writing functions.  <br />
+
+**public:** is access modifier.  <br />
+**Class:** is group of functions.  <br />
+**void:** is the phrase used for writing functions.  <br />
+
+**Data types**
+
+    int hoursInADay = 24;
+- **int** to store integers, that is, numbers without decimal digits.
+- **double** to store numbers with decimal digits.
+- **boolean** to store true/false values.
+- **String** to save literal messages.
+
+**Print:**
+- System.out.print()	Prints a message in the console.
+- System.out.println()	Prints a message in the console, then ends the line. <br />
+
+**! Remember:** After every command, like those, you must place a **semicolon ;** at the end of the line.
 
