@@ -16,5 +16,13 @@ Here are first steps to start with basics of Java:
 Remember that learning any programming language requires a lot of practice and dedication. While it is possible to get a basic understanding of Java in one day, becoming proficient in the language will take significantly longer.
 
 
-**1-Java basic syntax**
+**1- Java basic syntax**
+A method is a function belong a class
 
+```public Class Main{
+    public void main(){
+
+
+    }
+}
+```
