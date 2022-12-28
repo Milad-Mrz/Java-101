@@ -26,7 +26,7 @@ public Class Main{
     }
 }
 ```
-**public** is access modifier.
-**Class** is group of functions.
-**void** is the phrass used for writing functions.
+**public** is access modifier.  <br />
+**Class** is group of functions.  <br />
+**void** is the phrass used for writing functions.  <br />
 
