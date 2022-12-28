@@ -19,7 +19,8 @@ Remember that learning any programming language requires a lot of practice and d
 **1- Java basic syntax**
 A method is a function belong a class
 
-```public Class Main{
+```
+public Class Main{
     public void main(){
 
 
