@@ -22,8 +22,11 @@ A method is a function belong a class
 ```
 public Class Main{
     public void main(){
-
-
+        ...
     }
 }
 ```
+**public** is access modifier.
+**Class** is group of functions.
+**void** is the phrass used for writing functions.
+
